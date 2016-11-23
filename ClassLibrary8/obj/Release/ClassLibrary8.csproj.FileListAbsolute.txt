@@ -1,0 +1,7 @@
+c:\users\igor\documents\visual studio 2015\Projects\ClassLibrary8\ClassLibrary8\bin\Release\ClassLibrary8.exe
+c:\users\igor\documents\visual studio 2015\Projects\ClassLibrary8\ClassLibrary8\bin\Release\ClassLibrary8.pdb
+c:\users\igor\documents\visual studio 2015\Projects\ClassLibrary8\ClassLibrary8\obj\Release\ClassLibrary8.exe
+c:\users\igor\documents\visual studio 2015\Projects\ClassLibrary8\ClassLibrary8\obj\Release\ClassLibrary8.pdb
+c:\users\igor\documents\visual studio 2015\Projects\ClassLibrary8\ClassLibrary8\obj\Release\ClassLibrary8.csprojResolveAssemblyReference.cache
+c:\users\igor\documents\visual studio 2015\Projects\ClassLibrary8\ClassLibrary8\bin\Release\Autofac.dll
+c:\users\igor\documents\visual studio 2015\Projects\ClassLibrary8\ClassLibrary8\bin\Release\Autofac.xml
